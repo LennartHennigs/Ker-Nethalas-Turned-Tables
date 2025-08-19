@@ -1,2 +1,2 @@
-# Ker-Nethalas – Turned-Tabless
+# Ker-Nethalas – Turned-Tables
 Zine with Ker Nethalas' tables
